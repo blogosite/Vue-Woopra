@@ -44,7 +44,6 @@ const install = function (Vue, options = {}) {
 }
 
 export default {
-    version: '1.0',
     install,
     woopraActions,
     utils

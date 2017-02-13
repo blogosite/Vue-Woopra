@@ -1,6 +1,6 @@
 {
     "name": "vue-woopra",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Plugin to integrate Woopra on vue.js projects",
     "main": "./dist/vue-woopra.min.js",
     "author": "Jean-Baptiste Fournot",
